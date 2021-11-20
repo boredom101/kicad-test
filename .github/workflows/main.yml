@@ -9,6 +9,7 @@ on:
     paths:
       - '**.sch'
       - '**.kicad_pcb'
+  workflow_dispatch:
 
 jobs:
   kicad:
@@ -22,7 +23,7 @@ jobs:
         echo "  run_erc: true" >> config.kibot.yml
         echo "  run_drc: true" >> config.kibot.yml
         echo "global:" >> config.kibot.yml
-        echo "  output: %i.%x" >> config.kibot.yml
+        echo "  output: '%i.%x'" >> config.kibot.yml
         echo "outputs:" >> config.kibot.yml
         echo "- type: 'pcbdraw'" >> config.kibot.yml
         echo "  name: 'pcb-front'" >> config.kibot.yml
