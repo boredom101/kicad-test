@@ -31,6 +31,7 @@ jobs:
         echo "  name: 'pcb-back'" >> config.kibot.yml
         echo "  bottom: true" >> config.kibot.yml
         echo "- type: 'bom'" >> config.kibot.yml
+        echo "  name: 'bom'" >> config.kibot.yml
     - uses: INTI-CMNB/KiBot@v1
       with:
         config: config.kibot.yml
