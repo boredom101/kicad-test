@@ -5,7 +5,53 @@ on:
     paths:
     - '**.sch'
     - '**.kicad_pcb'
+  pull_request:name: kicad
+
+on:
+  push:
+    paths:
+    - '**.sch'
+    - '**.kicad_pcb'
   pull_request:
+    paths:
+      - '**.sch'
+      - '**.kicad_pcb'
+  workflow_dispatch:
+
+jobs:
+  kicad:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - run: |
+        echo "kibot:" > config.kibot.yml
+        echo "  version: 1" >> config.kibot.yml
+        echo "preflight:" >> config.kibot.yml
+        echo "  run_erc: true" >> config.kibot.yml
+        echo "  run_drc: true" >> config.kibot.yml
+        echo "global:" >> config.kibot.yml
+        echo "  output: '%i.%x'" >> config.kibot.yml
+        echo "outputs:" >> config.kibot.yml
+        echo "- type: 'pcbdraw'" >> config.kibot.yml
+        echo "  name: 'pcb-front'" >> config.kibot.yml
+        echo "- type: 'pcbdraw'" >> config.kibot.yml
+        echo "  name: 'pcb-back'" >> config.kibot.yml
+        echo "  options:" >> config.kibot.yml
+        echo "    bottom: true" >> config.kibot.yml
+        echo "- type: 'bom'" >> config.kibot.yml
+        echo "  name: 'bom'" >> config.kibot.yml
+    - uses: INTI-CMNB/KiBot@v1
+      with:
+        config: config.kibot.yml
+        dir: output
+        schema: '*.sch'
+        board: '*.kicad_pcb'
+    - name: upload results
+      uses: actions/upload-artifact@v2
+      with:
+        name: output
+        path: output
+
     paths:
       - '**.sch'
       - '**.kicad_pcb'
