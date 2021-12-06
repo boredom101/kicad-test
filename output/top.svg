@@ -218,7 +218,7 @@
 <g>
 </g>
 <g style="fill-opacity:1.0; stroke-width:0; stroke-opacity:1; stroke-linecap:round; stroke-linejoin:round;">
-<circle cx="33870.1" cy="46133.9" r="551.575"/> 
+<circle cx="33870.1" cy="44133.9" r="551.575"/> 
 </g>
 <g style="fill-opacity:1.0; stroke-width:59.0551; stroke-opacity:1; stroke-linecap:round; stroke-linejoin:round;">
 </g>
@@ -1684,7 +1684,7 @@
 <path d="M38297 28129 L38297 28326 "/>
 </g>
 <g style="fill-opacity:1.0; stroke-width:0; stroke-opacity:1; stroke-linecap:round; stroke-linejoin:round;">
-<circle cx="33870.1" cy="46133.9" r="68.8976"/> 
+<circle cx="33870.1" cy="44133.9" r="68.8976"/> 
 </g>
 <g style="fill-opacity:1.0; stroke-width:59.0551; stroke-opacity:1; stroke-linecap:round; stroke-linejoin:round;">
 </g>
@@ -3281,7 +3281,7 @@
 <path d="M38297 28129 L38297 28326 "/>
 </g>
 <g style="fill-opacity:1.0; stroke-width:0; stroke-opacity:1; stroke-linecap:round; stroke-linejoin:round;">
-<circle cx="33870.1" cy="46133.9" r="68.8976"/> 
+<circle cx="33870.1" cy="44133.9" r="68.8976"/> 
 </g>
 <g style="fill-opacity:1.0; stroke-width:59.0551; stroke-opacity:1; stroke-linecap:round; stroke-linejoin:round;">
 </g>
@@ -3804,7 +3804,7 @@
 <g>
 </g>
 <g style="fill:#ffffff; fill-opacity:1.0;  stroke:#ffffff; stroke-width:0; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
-<circle cx="33870.1" cy="46133.9" r="551.575"/> 
+<circle cx="33870.1" cy="44133.9" r="551.575"/> 
 </g>
 <g style="fill:#ffffff; fill-opacity:1.0;  stroke:#ffffff; stroke-width:59.0551; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
 </g>
@@ -4196,7 +4196,7 @@
 <g>
 </g>
 <g style="fill:#000000; fill-opacity:1.0;  stroke:#000000; stroke-width:0; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
-<circle cx="33870.1" cy="46133.9" r="551.575"/> 
+<circle cx="33870.1" cy="44133.9" r="551.575"/> 
 </g>
 <g style="fill:#000000; fill-opacity:1.0;  stroke:#000000; stroke-width:59.0551; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
 </g>
@@ -4774,67 +4774,67 @@
 <path d="M43850 46949 L43850 46556 L43813 46612 L43775 46649 L43738 46668 "/>
 </g>
 <g style="fill-opacity:0.0; stroke-width:47.2441; stroke-opacity:1; stroke-linecap:round; stroke-linejoin:round;">
-<path d="M33408 30429 L33611 30429 "/>
 <path d="M33408 30988 L33611 30988 "/>
-<path d="M42821 34759 L43025 34759 "/>
+<path d="M33408 30429 L33611 30429 "/>
 <path d="M42821 35318 L43025 35318 "/>
-<path d="M35882 45537 L40842 45537 "/>
-<path d="M35882 43529 L35882 44022 "/>
-<path d="M40842 43529 L35882 43529 "/>
+<path d="M42821 34759 L43025 34759 "/>
 <path d="M35882 45045 L35882 45537 "/>
-<path d="M40535 37948 L40791 37948 "/>
-<path d="M40791 37948 L40791 38204 "/>
-<path d="M38204 40791 L37948 40791 "/>
-<path d="M37948 40791 L37948 40535 "/>
-<path d="M40535 40791 L40791 40791 "/>
-<path d="M40791 40791 L40791 40535 "/>
+<path d="M40842 43529 L35882 43529 "/>
+<path d="M35882 43529 L35882 44022 "/>
+<path d="M35882 45537 L40842 45537 "/>
 <path d="M38204 37948 L37948 37948 "/>
-<path d="M39891 29795 L40049 29972 "/>
-<path d="M40049 29972 L39734 29972 "/>
-<path d="M39734 29972 L39891 29795 "/>
-<path d="M37864 27590 L37864 28692 "/>
-<path d="M37864 28692 L37746 28692 "/>
-<path d="M37746 28692 L37746 29303 "/>
-<path d="M40895 27590 L40895 28692 "/>
-<path d="M41013 28692 L40895 28692 "/>
+<path d="M40791 40791 L40791 40535 "/>
+<path d="M40535 40791 L40791 40791 "/>
+<path d="M37948 40791 L37948 40535 "/>
+<path d="M38204 40791 L37948 40791 "/>
+<path d="M40791 37948 L40791 38204 "/>
+<path d="M40535 37948 L40791 37948 "/>
 <path d="M41013 28692 L41013 29303 "/>
-<path d="M42393 29838 L42596 29838 "/>
+<path d="M41013 28692 L40895 28692 "/>
+<path d="M40895 27590 L40895 28692 "/>
+<path d="M37746 28692 L37746 29303 "/>
+<path d="M37864 28692 L37746 28692 "/>
+<path d="M37864 27590 L37864 28692 "/>
+<path d="M39734 29972 L39891 29795 "/>
+<path d="M40049 29972 L39734 29972 "/>
+<path d="M39891 29795 L40049 29972 "/>
 <path d="M42393 30397 L42596 30397 "/>
-<path d="M36633 35433 L37706 35433 "/>
-<path d="M37706 35433 L37706 35330 "/>
-<path d="M36633 35433 L35561 35433 "/>
-<path d="M35561 35433 L35561 35330 "/>
-<path d="M36633 33287 L37706 33287 "/>
-<path d="M37706 33287 L37706 33389 "/>
-<path d="M36633 33287 L35561 33287 "/>
-<path d="M35561 33287 L35561 33389 "/>
+<path d="M42393 29838 L42596 29838 "/>
 <path d="M35561 33389 L34901 33389 "/>
-<path d="M41177 33370 L41673 33370 "/>
-<path d="M43862 33370 L43366 33370 "/>
-<path d="M41177 31889 L41177 33370 "/>
+<path d="M35561 33287 L35561 33389 "/>
+<path d="M36633 33287 L35561 33287 "/>
+<path d="M37706 33287 L37706 33389 "/>
+<path d="M36633 33287 L37706 33287 "/>
+<path d="M35561 35433 L35561 35330 "/>
+<path d="M36633 35433 L35561 35433 "/>
+<path d="M37706 35433 L37706 35330 "/>
+<path d="M36633 35433 L37706 35433 "/>
 <path d="M43862 31003 L43862 33370 "/>
-<path d="M47346 46657 L49393 46657 "/>
-<path d="M47346 29633 L47346 46657 "/>
-<path d="M49393 28610 L49393 46657 "/>
-<path d="M47346 29633 L48370 29633 "/>
-<path d="M48370 29633 L48370 28610 "/>
-<path d="M48370 28610 L49393 28610 "/>
-<path d="M47346 29133 L47346 28610 "/>
+<path d="M41177 31889 L41177 33370 "/>
+<path d="M43862 33370 L43366 33370 "/>
+<path d="M41177 33370 L41673 33370 "/>
 <path d="M47346 28610 L47870 28610 "/>
-<path d="M29346 46657 L31393 46657 "/>
-<path d="M29346 29633 L29346 46657 "/>
-<path d="M31393 28610 L31393 46657 "/>
-<path d="M29346 29633 L30370 29633 "/>
-<path d="M30370 29633 L30370 28610 "/>
-<path d="M30370 28610 L31393 28610 "/>
-<path d="M29346 29133 L29346 28610 "/>
+<path d="M47346 29133 L47346 28610 "/>
+<path d="M48370 28610 L49393 28610 "/>
+<path d="M48370 29633 L48370 28610 "/>
+<path d="M47346 29633 L48370 29633 "/>
+<path d="M49393 28610 L49393 46657 "/>
+<path d="M47346 29633 L47346 46657 "/>
+<path d="M47346 46657 L49393 46657 "/>
 <path d="M29346 28610 L29870 28610 "/>
-<path d="M36393 28610 L35346 28610 "/>
-<path d="M36393 29633 L36393 28610 "/>
-<path d="M35346 29633 L35346 28610 "/>
-<path d="M36393 29633 L35346 29633 "/>
-<path d="M36393 30133 L36393 30657 "/>
+<path d="M29346 29133 L29346 28610 "/>
+<path d="M30370 28610 L31393 28610 "/>
+<path d="M30370 29633 L30370 28610 "/>
+<path d="M29346 29633 L30370 29633 "/>
+<path d="M31393 28610 L31393 46657 "/>
+<path d="M29346 29633 L29346 46657 "/>
+<path d="M29346 46657 L31393 46657 "/>
 <path d="M36393 30657 L35870 30657 "/>
+<path d="M36393 30133 L36393 30657 "/>
+<path d="M36393 29633 L35346 29633 "/>
+<path d="M35346 29633 L35346 28610 "/>
+<path d="M36393 29633 L36393 28610 "/>
+<path d="M36393 28610 L35346 28610 "/>
 </g>
 <g style="fill-opacity:0.0; stroke-width:59.0551; stroke-opacity:1; stroke-linecap:round; stroke-linejoin:round;">
 <text x="33509.8" y="30255.9" textLength="1220.38" font-size="524.934" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">C17</text>
@@ -5058,4 +5058,4 @@
 <g>
 </g>
 </g> 
-</g><defs><mask id="hole-mask"><g><rect fill="white" x="27012" y="26623" width="24714" height="21318"/><polyline stroke-linecap="round" stroke="black" stroke-width="137" points="0.0 0 0.0 0" transform="translate(39872 39872) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="137" points="0.0 0 0.0 0" transform="translate(39370 39872) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="137" points="0.0 0 0.0 0" transform="translate(38868 39872) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="137" points="0.0 0 0.0 0" transform="translate(39872 39370) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="137" points="0.0 0 0.0 0" transform="translate(39370 39370) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="137" points="0.0 0 0.0 0" transform="translate(38868 39370) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="137" points="0.0 0 0.0 0" transform="translate(39872 38868) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="137" points="0.0 0 0.0 0" transform="translate(39370 38868) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="137" points="0.0 0 0.0 0" transform="translate(38868 38868) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="255" points="-79.0 0 79.0 0" transform="translate(38415 29421) rotate(-270.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="255" points="-79.0 0 79.0 0" transform="translate(40324 29421) rotate(-270.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="275" points="-98.5 0 98.5 0" transform="translate(40442 28228) rotate(-270.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="275" points="-98.5 0 98.5 0" transform="translate(38297 28228) rotate(-270.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="1062" points="0.0 0 0.0 0" transform="translate(33870 46133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="1062" points="0.0 0 0.0 0" transform="translate(44870 46133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="1062" points="0.0 0 0.0 0" transform="translate(44870 29133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="1062" points="0.0 0 0.0 0" transform="translate(33870 29133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 46133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 46133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 45133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 45133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 44133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 44133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 43133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 43133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 42133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 42133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 41133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 41133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 40133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 40133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 39133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 39133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 38133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 38133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 37133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 37133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 36133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 36133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 35133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 35133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 34133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 34133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 33133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 33133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 32133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 32133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 31133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 31133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 30133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 30133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 29133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 29133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 46133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 46133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 45133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 45133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 44133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 44133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 43133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 43133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 42133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 42133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 41133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 41133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 40133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 40133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 39133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 39133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 38133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 38133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 37133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 37133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 36133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 36133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 35133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 35133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 34133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 34133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 33133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 33133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 32133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 32133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 31133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 31133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 30133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 30133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 29133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 29133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(35870 29133) rotate(-180.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(35870 30133) rotate(-180.0)"/></g></mask></defs></g></g><g transform="translate(-27013, -26624)" id="highlightContainer"/><g transform="translate(-27013, -26624)" id="componentContainer"/></svg>
+</g><defs><mask id="hole-mask"><g><rect fill="white" x="27012" y="26623" width="24714" height="21318"/><polyline stroke-linecap="round" stroke="black" stroke-width="137" points="0.0 0 0.0 0" transform="translate(39872 39872) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="137" points="0.0 0 0.0 0" transform="translate(39370 39872) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="137" points="0.0 0 0.0 0" transform="translate(38868 39872) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="137" points="0.0 0 0.0 0" transform="translate(39872 39370) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="137" points="0.0 0 0.0 0" transform="translate(39370 39370) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="137" points="0.0 0 0.0 0" transform="translate(38868 39370) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="137" points="0.0 0 0.0 0" transform="translate(39872 38868) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="137" points="0.0 0 0.0 0" transform="translate(39370 38868) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="137" points="0.0 0 0.0 0" transform="translate(38868 38868) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="255" points="-79.0 0 79.0 0" transform="translate(38415 29421) rotate(-270.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="255" points="-79.0 0 79.0 0" transform="translate(40324 29421) rotate(-270.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="275" points="-98.5 0 98.5 0" transform="translate(40442 28228) rotate(-270.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="275" points="-98.5 0 98.5 0" transform="translate(38297 28228) rotate(-270.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="1062" points="0.0 0 0.0 0" transform="translate(33870 44133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="1062" points="0.0 0 0.0 0" transform="translate(44870 46133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="1062" points="0.0 0 0.0 0" transform="translate(44870 29133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="1062" points="0.0 0 0.0 0" transform="translate(33870 29133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 46133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 46133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 45133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 45133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 44133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 44133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 43133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 43133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 42133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 42133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 41133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 41133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 40133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 40133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 39133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 39133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 38133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 38133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 37133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 37133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 36133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 36133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 35133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 35133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 34133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 34133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 33133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 33133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 32133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 32133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 31133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 31133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 30133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 30133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(48870 29133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(47870 29133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 46133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 46133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 45133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 45133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 44133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 44133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 43133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 43133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 42133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 42133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 41133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 41133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 40133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 40133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 39133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 39133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 38133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 38133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 37133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 37133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 36133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 36133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 35133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 35133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 34133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 34133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 33133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 33133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 32133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 32133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 31133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 31133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 30133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 30133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(30870 29133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(29870 29133) rotate(-0.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(35870 29133) rotate(-180.0)"/><polyline stroke-linecap="round" stroke="black" stroke-width="393" points="0.0 0 0.0 0" transform="translate(35870 30133) rotate(-180.0)"/></g></mask></defs></g></g><g transform="translate(-27013, -26624)" id="highlightContainer"/><g transform="translate(-27013, -26624)" id="componentContainer"/></svg>
