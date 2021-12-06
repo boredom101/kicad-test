@@ -19,7 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - run: |
+    - name: Write Config
+      run: |
         echo "kibot:" > config.kibot.yml
         echo "  version: 1" >> config.kibot.yml
         echo "global:" >> config.kibot.yml
@@ -43,7 +44,8 @@ jobs:
         dir: output
         schema: '*.sch'
         board: '*.kicad_pcb'
-    - run: |
+    - name: Push Changes
+      run: |
         git config --global user.name "$PUSH_NAME"
         git config --global user.email "$PUSH_USER@users.noreply.github.com"
         git add output/*
