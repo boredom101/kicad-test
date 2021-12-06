@@ -5,6 +5,7 @@ env:
   PUSH_MESSAGE: 'Kicad Action'
 on:
   push:
+    branches: main
     paths:
     - '**.sch'
     - '**.kicad_pcb'
