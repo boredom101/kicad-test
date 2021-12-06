@@ -33,6 +33,10 @@ jobs:
         echo "    bottom: true" >> config.kibot.yml
         echo "- type: 'bom'" >> config.kibot.yml
         echo "  name: 'bom'" >> config.kibot.yml
+        echo "  options:" >> config.kibot.yml
+        echo "    csv:" >> config.kibot.yml
+        echo "      hide_pcb_info: true" >> config.kibot.yml
+        echo "      hide_stats_info: true" >> config.kibot.yml
     - uses: INTI-CMNB/KiBot@v1
       with:
         config: config.kibot.yml
